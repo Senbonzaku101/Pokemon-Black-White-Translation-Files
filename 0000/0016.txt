@@ -599,12 +599,12 @@ The foe's \xf000Ă\x0001\x0000は　かなしばりで\xfffe\xf000ć\x0001\x0001
 \xf000Ă\x0001\x0000 \xfffeかなしばりが　とけた！
 The wild \xf000Ă\x0001\x0000 \xfffeかなしばりが　とけた！
 The foe's \xf000Ă\x0001\x0000 \xfffeかなしばりが　とけた！
-\xf000Ă\x0001\x0000 \xfffeみずのリングを　まとった！
-The wild \xf000Ă\x0001\x0000 \xfffeみずのリングを　まとった！
-The foe's \xf000Ă\x0001\x0000 \xfffeみずのリングを　まとった！
-\xf000Ă\x0001\x0000 \xfffeみずのリングで　たいりょくを　かいふく！
-The wild \xf000Ă\x0001\x0000 \xfffeみずのリングで　たいりょくを　かいふく！
-The foe's \xf000Ă\x0001\x0000 \xfffeみずのリングで　たいりょくを　かいふく！
+\xf000Ă\x0001\x0000 surrounded\xfffeitself with a veil of water!
+The wild \xf000Ă\x0001\x0000 surrounded\xfffeitself with a veil of water!
+The foe's \xf000Ă\x0001\x0000 surrounded\xfffeitself with a veil of water!
+Aqua Ring restored \xfffe\xf000Ă\x0001\x0000's HP!
+Aqua Ring restored \xfffethe wild \xf000Ă\x0001\x0000's HP!
+Aqua Ring restored \xfffethe foe's \xf000Ă\x0001\x0000's HP!
 \xf000Ă\x0001\x0000 \xfffewas seeded!
 The wild \xf000Ă\x0001\x0000 \xfffewas seeded!
 The foe's \xf000Ă\x0001\x0000 \xfffewas seeded!
